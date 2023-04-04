@@ -38,42 +38,7 @@
 
 ---
 
-# Instalasi
-## HEROKU BUILDPACK
 
-```
-> heroku/nodejs
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-
---------
-
-## FOR HEROKU USER 
-
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/login)
-
-[`Click Here For Tutorial`](https://youtu.be/2grMt0TbfOM)<br>
-
-----------
-<p align="center">
-  <a href="https://youtu.be/2grMt0TbfOM"><img src="https://telegra.ph/file/dd32f9b493adc7a6ea33f.jpg" />
-</p>
-<br>
-
-----------
-## FOR RAILWAY USER 
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=zeeoneofc)
-
-[`Click Here For Tutorial`](https://youtu.be/BqRauxohbLg)<br>
-
-----------
-
-<p align="center">
-  <a href="https://youtu.be/BqRauxohbLg"><img src="https://telegra.ph/file/ba58c4ad1b43bc285f16b.jpg" />
-</p>
-<br>
 
 ----------
 ## FOR OKTETO USER 
@@ -101,25 +66,6 @@
 ## FOR PANEL USER 
 
 [`Click Here For Tutorial`](https://youtu.be/H2BZ3KFvQys)
-
-----------
-
-<p align="center">
-  <a href="https://youtu.be/H2BZ3KFvQys"><img src="https://telegra.ph/file/d2ab9876306da1e9c55d5.jpg" />
-</p>
-<br>
-
-----------
-
-## FOR DOPRAX USER 
-
-[![Deploy on doprax](https://www.linkpicture.com/q/doprax-zeeoneofc.my.id.svg)](https://www.doprax.com/r/zeeoneofc/)
-
-[`Tutorial soon`](https://youtu.be/BqRauxohbLg)<br>
-
-----------
-
-<!-- <p align="center">
   <a href="https://youtu.be/BqRauxohbLg"><img src="https://telegra.ph/file/ba58c4ad1b43bc285f16b.jpg" />
 </p> -->
 
@@ -127,8 +73,7 @@
 - [Download script MediaFire](https://youtu.be/_rEE2-WIHS8)
 
 <p align="center">
-<a href="https://youtu.be/_rEE2-WIHS8"><img src="https://telegra.ph/file/41332443c4d3a0f94e327.jpg" />
-</p>
+<a 
 
 ## Edit Owner 
 
@@ -159,17 +104,4 @@
         "user": 15
     }
 }
-```
-
-## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
-
-# Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
 
