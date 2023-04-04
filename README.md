@@ -10,7 +10,7 @@
 
 </p>
 <p align="center">
-<img  title = "DSXBOT"  src = " https://i.ibb.co/v10Yvnp/20230404-212013.png" ></ a >
+<a href="https://ibb.co/wy5srmV"><img  title = "DSXBOT"  src = " https://i.ibb.co/v10Yvnp/20230404-212013.png" ></ a >
 </p> _ _
 <p align="center">
 <a href="https://github.com/zeeoneofficial/Haruka-Md"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
