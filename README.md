@@ -26,14 +26,7 @@
 <a href="https://github.com/zeeoneofficial/Haruka-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#Edit-Owner">Settings</a> •
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#donate">Donate</a>
-</p>
-</div>
+
 
 
 ---
@@ -41,39 +34,8 @@
 
 
 ----------
-## FOR OKTETO USER 
-[![Deploy on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
 
-[`Click Here For Tutorial`](https://youtu.be/FhHl_hvnY2s)
 
-----------
-
-<p align="center">
-  <a href="https://youtu.be/FhHl_hvnY2s"><img src="https://telegra.ph/file/e5f7eac9d4272b869eb69.jpg" />
-</p>
-<br>
-
-----------
-## FOR REPLIT USER
-[![Run on Repl.it](https://repl.it/badge/github/zeeoneofficial/Alphabot-Md)](https://repl.it/github/zeeoneofficial/Alphabot-Md)
-------
-<p align="center">
-  <a href="https://youtu.be/jom_scHK09c"><img src="https://telegra.ph/file/873e2bbfbd1f15a535995.jpg" />
-</p>
-<br>
-
-----------
-## FOR PANEL USER 
-
-[`Click Here For Tutorial`](https://youtu.be/H2BZ3KFvQys)
-  <a href="https://youtu.be/BqRauxohbLg"><img src="https://telegra.ph/file/ba58c4ad1b43bc285f16b.jpg" />
-</p> -->
-
-## For Termux
-- [Download script MediaFire](https://youtu.be/_rEE2-WIHS8)
-
-<p align="center">
-<a 
 
 ## Edit Owner 
 
